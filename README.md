@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 ## ⚙️ Current Stack
 Here are the technologies and tools I work with:
 
-- **Languages**: [List programming languages, e.g., JavaScript, HTML5, CSS]
-- **Frameworks & Libraries**: [List frameworks and libraries, e.g., React]
-- **Tools**: [List tools, e.g., Git, Jira, Trello, Figma, etc.]
-- **Cloud Platforms**: [List cloud platforms, e.g., iCloud, Google Cloud, Dropbox, etc.]
+- **Languages**: [JavaScript, HTML5, CSS]
+- **Frameworks & Libraries**: [React]
+- **Tools**: [Git, Jira, Trello, Figma, etc.]
+- **Cloud Platforms**: [iCloud, Google Cloud, Dropbox, etc.]
 
 ---
 

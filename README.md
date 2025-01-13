@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Erika!
+![Typing Animation](https://github.com/erikamc99/RepoPrueba/blob/main/src/github_profile_welcome.gif)
 
-Welcome to my GitHub profile! ✨
-<!-- ![Typing Animation]() -->
-
-😀 I'm passionate about technology, development, and learning new tools and frameworks. 
+I'm passionate about technology, development, and learning new tools and frameworks. 😀 
 Below, you'll find more about me, the technologies I use, and how to get in touch. 
 
 ---
@@ -25,9 +23,7 @@ Here are the technologies and tools I work with:
 ---
 
 ## 📊 GitHub Stats
-![Erika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikamc99&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikamc99&layout=compact&theme=radical)
+![Erika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikamc99&show_icons=true&theme=radical)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikamc99&layout=compact&theme=radical)
 
 ---
 
@@ -39,4 +35,4 @@ You can reach me via:
 
 ---
 
-### 🚀 Feel free to check out my repositories! Let's build something amazing together!
+### 🚀 Feel free to check out my repositories. Let's build something amazing together!

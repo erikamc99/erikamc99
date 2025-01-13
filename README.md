@@ -8,7 +8,7 @@ Below, you'll find more about me, the technologies I use, and how to get in touc
 
 ## 📌 About Me
 - 💻 I'm a future developer with a keen interest in building impactful solutions.
-- 🌱 Currently learning and exploring at a Full-Stack Bootcamp in Factoria F5.
+- 🌱 Currently learning and exploring in a Full-Stack Bootcamp in Factoria F5.
 - 🌟 Fun fact: My desktop is full of cat fur & I'm proud of it. 😺
 
 ---

@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Erika!
 ![Typing Animation](https://github.com/erikamc99/RepoPrueba/blob/main/src/github_profile_welcome.gif)
 
-I'm passionate about technology, development, and learning new tools and frameworks. 😀 
+I'm passionate about technology, development, and learning new tools and frameworks. 
+
 Below, you'll find more about me, the technologies I use, and how to get in touch. 
 
 ---
